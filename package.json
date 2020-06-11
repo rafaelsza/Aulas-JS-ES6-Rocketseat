@@ -6,9 +6,14 @@
   "dependencies": {
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
+    "@babel/plugin-proposal-object-rest-spread": "^7.10.1",
     "@babel/preset-env": "^7.10.2"
   },
   "scripts": {
-    "dev": "babel ./ex1/main.js -o ./ex1/bundle.js -w"
+    "ex1": "babel ./ex1/main.js -o ./ex1/bundle.js -w",
+    "ex2": "babel ./ex2/main.js -o ./ex2/bundle.js -w",
+    "ex3": "babel ./ex3/main.js -o ./ex3/bundle.js -w",
+    "ex4": "babel ./ex4/main.js -o ./ex4/bundle.js -w",
+    "ex5": "babel ./ex5-ex6-ext7/main.js -o ./ex5-ex6-ext7/bundle.js -w"
   }
 }
