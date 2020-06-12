@@ -1,6 +1,6 @@
 # Desafios das aulas de JS ES6+ Rocketseat
 
-* Nessários ter <b>node</b> instalado em sua máquina, <a href="https://nodejs.org/en/download/">consulte documentação</a>.<br/>
+* Necessário ter <b>node</b> instalado em sua máquina, <a href="https://nodejs.org/en/download/">consulte documentação</a>.<br/>
 
 * Necessário ter <b>yarn</b> instalado em sua máquina, <a href="https://yarnpkg.com/getting-started/install">consulte documentação</a>.<br/>
 
