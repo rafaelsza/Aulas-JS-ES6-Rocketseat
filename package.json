@@ -10,10 +10,10 @@
     "@babel/preset-env": "^7.10.2"
   },
   "scripts": {
-    "ex1": "babel ./ex1/main.js -o ./ex1/bundle.js -w",
-    "ex2": "babel ./ex2/main.js -o ./ex2/bundle.js -w",
-    "ex3": "babel ./ex3/main.js -o ./ex3/bundle.js -w",
-    "ex4": "babel ./ex4/main.js -o ./ex4/bundle.js -w",
-    "ex5": "babel ./ex5-ex6-ext7/main.js -o ./ex5-ex6-ext7/bundle.js -w"
+    "md1ex1": "babel ./desafios-modulo-1/ex1/main.js -o ./desafios-modulo-1/ex1/bundle.js -w",
+    "md1ex2": "babel ./desafios-modulo-1/ex2/main.js -o ./desafios-modulo-1/ex2/bundle.js -w",
+    "md1ex3": "babel ./desafios-modulo-1/ex3/main.js -o .desafios-modulo-1/ex3/bundle.js -w",
+    "md1ex4": "babel ./desafios-modulo-1/ex4/main.js -o ./desafios-modulo-1/ex4/bundle.js -w",
+    "md1ex5": "babel ./desafios-modulo-1/ex5-ex6-ext7/main.js -o ./desafios-modulo-1/ex5-ex6-ext7/bundle.js -w"
   }
 }
