@@ -73,7 +73,7 @@ var Admin = /*#__PURE__*/function (_Usuario) {
   return Admin;
 }(Usuario);
 
-var User1 = new Usuario('dada@gmail.com', 'senha1213');
+var User1 = new Usuario('dada@gmail.com', 'senha25151');
 var Admin1 = new Admin('admin@gmail.com', 'adsad');
 console.log(User1.isAdmin());
 console.log(Admin1.isAdmin());

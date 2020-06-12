@@ -26,7 +26,7 @@ class Admin extends Usuario{
 }
 
 
-const User1 = new Usuario('dada@gmail.com', 'senha1213');
+const User1 = new Usuario('dada@gmail.com', 'senha25151');
 const Admin1 = new Admin('admin@gmail.com', 'adsad');
 
 
