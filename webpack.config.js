@@ -1,11 +1,11 @@
 module.exports = {
-    entry: ['@babel/polyfill', './desafios-modulo-2/src/main.js'],
+    entry: ['@babel/polyfill', './desafios-modulo-2-and-3/src/main.js'],
     output: {
-        path: __dirname + '/desafios-modulo-2/public',
+        path: __dirname + '/desafios-modulo-2-and-3/public',
         filename: 'bundle.js',
     },
     devServer: {
-        contentBase: __dirname + '/desafios-modulo-2/public'
+        contentBase: __dirname + '/desafios-modulo-2-and-3/public'
     },
     module: {
         rules: [

@@ -24,5 +24,7 @@
     "dev": "webpack-dev-server --mode=development",
     "build": "webpack --mode=production"
   },
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
